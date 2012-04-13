@@ -1,0 +1,13 @@
+api = 2
+core = 7.x
+
+
+;******************************************************************************
+; Base Distribution (installprofiles)
+;******************************************************************************
+projects[drupal][version] = "7.12"
+
+projects[musiclibrary][type] = "profile"
+projects[musiclibrary][download][type] = "git"
+projects[musiclibrary][download][url] = "git://github.com/drupallerina/musiclibrary.git"
+projects[musiclibrary][download][branch] = "master"
