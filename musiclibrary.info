@@ -1,0 +1,32 @@
+name = musiclibrary
+description = Music publishing profile. 
+core = 7.x
+
+; Core
+dependencies[] = block
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = toolbar
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+
+;Contrib
+dependencies[] = features
+dependencies[] = pathauto
+dependencies[] = references
+dependencies[] = ctools
+dependencies[] = token
+dependencies[] = views
+dependencies[] = media
+
+;Install Profile
+dependencies[] = musiclibrary_playlists
+
+files[] = musiclibrary.profile
