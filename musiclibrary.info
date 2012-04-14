@@ -27,6 +27,6 @@ dependencies[] = views
 dependencies[] = media
 
 ;Install Profile
-dependencies[] = musiclibrary_playlists
+;dependencies[] = musiclibrary_playlists
 
 files[] = musiclibrary.profile
