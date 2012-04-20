@@ -3,13 +3,13 @@ api = 2
 
 ; Contrib
 
-projects[features] = 1.0-beta6
+projects[features] = 1.0-rc2
 projects[pathauto] = 1.0
 projects[references] = 2.0
-projects[ctools] = 1.0-rc1
-projects[token] = 1.0-rc1
-projects[views] = 3.1
-projects[media] = 1.0-rc3
+projects[ctools] = 1.0
+projects[token] = 1.0
+projects[views] = 3.3
+projects[media] = 1.0
 projects[libraries] = 2.0-alpha2
 
 ; Theme
