@@ -10,6 +10,7 @@ projects[ctools] = 1.0-rc1
 projects[token] = 1.0-rc1
 projects[views] = 3.1
 projects[media] = 1.0-rc3
+projects[libraries] = 2.0-alpha2
 
 ; Theme
 projects[omega] = 3.0
