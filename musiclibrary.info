@@ -25,6 +25,7 @@ dependencies[] = ctools
 dependencies[] = token
 dependencies[] = views
 dependencies[] = media
+dependencies[] = libraries
 
 ;Install Profile
 ;dependencies[] = musiclibrary_playlists
